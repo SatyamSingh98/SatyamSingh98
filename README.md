@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SatyamSingh98
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning to sharpen my skills
+- 👀 I’m a Full Stack Odoo Developer
+- 🌱 I’m currently learning to sharpen my skills every single day
 - 💞️ I’m looking to collaborate on various challenging projects
 - 📫 Do get in touch with me on singhsatyam749@gmail.com 
 
